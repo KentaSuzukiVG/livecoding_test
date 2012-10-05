@@ -1,0 +1,3 @@
+[submodule "fuelphp"]
+	path = fuelphp
+	url = https://github.com/fuelphp/fuelphp
